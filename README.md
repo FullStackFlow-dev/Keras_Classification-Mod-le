@@ -1,0 +1,2 @@
+# Keras_Classification-Mod-le
+Voici une suggestion de descriptProjet de classification d'images avec Keras, utilisant un modèle séquentiel simple. Inclut la définition, l'entraînement et la sauvegarde du modèle, avec options pour sortie softmax ou logits. Idéal pour MNIST ou autres datasets d'images, avec organisation claire et reprodusable.
